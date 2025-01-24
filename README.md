@@ -23,9 +23,9 @@
 - [VORA GitHub 링크](https://github.com/tnp22/aloha_3jo)
 
 
-### 📌 **NetStar**  
+### 📌 **APPLE MARKET**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 중고 거래 사이트 APPLE MARKET
+- **주제 :** 중고 거래 사이트 
 - [NetStar GitHub 링크](https://github.com/tnp22/MSA9_miniP)
 
 
