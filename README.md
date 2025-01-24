@@ -11,7 +11,7 @@
 ---
 
 ## 📂 **Portfolio**  
-- [📝 포트폴리오 페이지]( )
+- [📝 포트폴리오 페이지](https://quick-nail-ba1.notion.site/c557c3092aec4790a38623b236f746d0?pvs=74)
 
 ---
 
@@ -26,7 +26,7 @@
 ### 📌 **NetStar**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
 - **주제 :** 영화 속 문화를 즐기기 위한 SNS
-- [NetStar GitHub 링크](https://github.com/LimeYun/MSA9_movie)
+- [NetStar GitHub 링크](https://github.com/tnp22/MSA9_miniP)
 
 
 ---
