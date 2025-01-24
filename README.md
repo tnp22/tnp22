@@ -78,5 +78,5 @@
 
 ## 📞 **Contact Me**  
 
-- 📧 **Email:** [ansqhdgus200@hanmail.net](ansqhdgus200@hanmail.net)
-- 📱 **Phone:** 010-4240-0127
+- 📧 **Email:** [materialize222@gmail.com](materialize222@gmail.com)
+- 📱 **Phone:** 010-5360-3239
