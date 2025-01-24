@@ -25,14 +25,14 @@
 
 ### 📌 **NetStar**  
 - **기술 스택 :** Java, JSP, HTML, CSS, JavaScript, MySQL
-- **주제 :** 영화 속 문화를 즐기기 위한 SNS
+- **주제 :** 중고 거래 사이트 APPLE MARKET
 - [NetStar GitHub 링크](https://github.com/tnp22/MSA9_miniP)
 
 
 ---
 ## 📊 **GitHub Stats**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bong127&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bong127)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnp22&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tnp22)
 
 ---
 
